@@ -1,0 +1,1 @@
+{"version":3,"file":"Main.controller.js","names":["sap","ui","define","BaseController","MessageBox","extend","sayHello","show"],"sources":["Main-dbg.controller.js"],"mappings":"AAAAA,IAAIC,GAAGC,OAAO,CAAC,mBAAoB,oBAAqB,SAAUC,EAAgBC,GACjF,aAEA,OAAOD,EAAeE,OAAO,uBAAwB,CACpDC,SAAU,WACTF,EAAWG,KAAK,eACjB,GAEF"}

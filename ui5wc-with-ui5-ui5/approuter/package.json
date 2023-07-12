@@ -1,0 +1,11 @@
+{
+    "name": "ui5wc-with-ui5-ui5-ar",
+    "version": "0.0.1",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "@sap/approuter": "^14.0.0"
+    }
+  }
+  

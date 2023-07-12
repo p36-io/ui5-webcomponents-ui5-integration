@@ -1,0 +1,12 @@
+{
+    "authenticationMethod": "none",
+    "routes": [
+      {
+        "source": "^/ui/(.*)$",
+        "target": "$1",
+        "authenticationType": "none",
+        "localDir": "ui"
+      }
+    ]
+  }
+  

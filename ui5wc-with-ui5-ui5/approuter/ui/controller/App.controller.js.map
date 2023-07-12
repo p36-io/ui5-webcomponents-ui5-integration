@@ -1,0 +1,1 @@
+{"version":3,"file":"App.controller.js","names":["sap","ui","define","BaseController","extend","onInit","this","getView","addStyleClass","getOwnerComponent","getContentDensityClass"],"sources":["App-dbg.controller.js"],"mappings":"AAAAA,IAAIC,GAAGC,OAAO,CAAC,oBAAqB,SAAUC,GAC7C,aAEA,OAAOA,EAAeC,OAAO,sBAAuB,CACnDC,OAAQ,WAEPC,KAAKC,UAAUC,cAAcF,KAAKG,oBAAoBC,yBACvD,GAEF"}
